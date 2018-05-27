@@ -1,0 +1,39 @@
+img{
+    width: 300px;
+    /* padding-bottom: 1rem; */
+    border: 2px outset yellow;
+    border-radius: 5%}
+.mylabel{
+    font-weight: bold; }
+.fact{font-style: italic;
+    padding-right: 1rem;
+    padding-left: 1rem;}
+.bottom {
+    width:300px;
+    border: 2px outset yellow;
+    border-radius: 10px;
+}
+.mytop {
+    background-color: green;
+    font-family: Helvetica;
+    width:305px;
+    border: 2px outset yellow;
+    border-radius: 10px;
+    padding: 1rem;
+    box-shadow: 10px 10px 10px lightgray;
+  }
+.top{
+  margin-bottom: 1rem;
+}
+
+.description{
+    padding-left: 1rem;
+    padding-right: 1rem;}
+/* add your CSS here */
+li{
+    list-style-type: none;
+    list-style-position: outside;}
+.mylist{
+    margin-left: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;}
